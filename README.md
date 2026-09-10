@@ -24,6 +24,8 @@ With the rapid growth of AI models and providers, choosing the right model for a
 The project focuses on making AI model discovery **simple, fast, and practical**.
 
 ---
+<img width="1913" height="892" alt="image" src="https://github.com/user-attachments/assets/05ab0886-d11b-48a6-a49b-7ea4752f6a28" />
+
 
 ## ✨ Features
 
